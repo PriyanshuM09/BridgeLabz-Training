@@ -34,3 +34,22 @@ BridgeLabz-Training/
   - `git commit`
   - `git push`
 - Successfully pushed files to the remote GitHub repository.
+
+ ## Day 2 – Java Fundamentals & Problem Solving  
+**Date:** 17-Dec-2025
+
+### Materials Covered
+- Getting Started with Java
+- Java Fundamental
+- Problem-solving Approach using Java
+- Best Practices & Coding Standards in Java
+
+### Assignments
+- Practice Problem
+
+### Key Learning Highlights
+- Understood Java basics and program structure
+- Learned fundamental Java concepts and syntax
+- Explored systematic problem-solving approaches using Java
+- Gained knowledge of Java best practices and coding standards
+
