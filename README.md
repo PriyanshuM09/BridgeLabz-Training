@@ -9,19 +9,22 @@
 - Set up a GitHub repository.
 
 ### Project Structure
+
+```
 BridgeLabz-Training/
 ├── core-java-practice/
-│ ├── gcr-codebase/
-│ │ ├── arrays/
-│ │ ├── builtIn-functions/
-│ │ ├── control-flow/
-│ │ ├── java-methods/
-│ │ ├── programming-elements/
-│ │ ├── string-handling/
-│ │ └── strings/
-│ ├── leet-code-codebase/
-│ │ └── scenario-based/
-│ └── README.md
+│   ├── gcr-codebase/
+│   │   ├── arrays/
+│   │   ├── builtIn-functions/
+│   │   ├── control-flow/
+│   │   ├── java-methods/
+│   │   ├── programming-elements/
+│   │   ├── string-handling/
+│   │   └── strings/
+│   ├── leet-code-codebase/
+│   │   └── scenario-based/
+│   └── README.md
+```
 
 ### Learning Outcomes
 - Learned basic Git commands:
