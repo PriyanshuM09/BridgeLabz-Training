@@ -47,7 +47,7 @@ public class BankAccount{
 	           balance += amount;
 	           System.out.println("Deposited: $" + amount);
 	       } else {
-	           System.out.println("Invalid deposit amount.");
+	           System.out.println("Invalid deposit amount");
 	       }
 	   }
 	   public void withdraw(double amount){
