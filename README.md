@@ -100,3 +100,27 @@ BridgeLabz-Training/
 - Practiced extra built-in methods
 - Learned math.random, math.pow(),etc
 - **Code Link:** [extras](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+-  ## Day 9 - Scenario based questions
+**Date:** 26-Dec-2025
+
+- Practiced scenario questions
+- created programs using switch case and if-else
+-  **Code Link:** [scenario-based]( https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/scenario-based-codespace)
+
+-  ## Day 10 - leetcode problems
+**Date:** 28-Dec-2025
+
+- Practiced arrays questions
+- Implemented decision-making problems
+- **Code Link:** [leetcode-codebase](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array-practice-problem)
+
+-
+-  ## Day 11 - Scenario based questions
+**Date:** 29-Dec-2025
+
+- Practiced scenario based questions
+- created mini projects using switch case and if-else
+- used different types of loops
+-  **Code Link:** [scenario-based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/scenario-based-codespace) 
+
