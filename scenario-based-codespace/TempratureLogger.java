@@ -21,7 +21,7 @@ public static void main(String args[]){
    tot+=arr[i];
   }
   avg= tot/7;
-  System.out.println("Max tempature is : "+ maxTemprature);
-  System.out.println("Average is : "+avg);
+  System.out.println("Max tempature is :"+ maxTemprature);
+  System.out.println("Average is :"+avg);
 }
 }
