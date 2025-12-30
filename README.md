@@ -23,3 +23,15 @@
 - submit all the assignment of constructor
 - **Code Link:** [constructor](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
 
+
+## Day 3 – Keywords & Operators  
+**Date:** 29-Dec-2025
+
+- Learn this keyword
+- Learn static keyword
+- Learn final keyword
+- Practice instanceof operator
+- Level 1 Lab Practice completed
+- **Code Link:** [Inbuilt functions](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/levelone)
+
+
