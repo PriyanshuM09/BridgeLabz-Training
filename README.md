@@ -34,4 +34,14 @@
 - Level 1 Lab Practice completed
 - **Code Link:** [Inbuilt functions](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/levelone)
 
+## Day 4 – Object Modeling & Diagrams  
+**Date:** 30-Dec-2025
+
+- Learned the difference between Classes and Objects in Java  
+- Understood Object Modeling concepts  
+- Studied Class Diagram and its components  
+- Learned Object Diagram representation  
+- Understood basics of Sequence Diagram    
+- **Code Link:** [Object Modeling](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+
 
