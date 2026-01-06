@@ -195,3 +195,14 @@ BridgeLabz-Training/
 - Reviewed DSA preparation plan and learning roadmap
 - **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
 - **Code Link:** [DSA-Questions-LinkedList](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
+
+
+- ## Day 17 – Scenario Based on OOPs &  Data Structures: Stack, Queue, HashMap & Hashing 
+**Date:** 03-Jan-2026  
+
+- Designed backend logic for CabbyGo ride-hailing app using OOP principles  
+- Implemented inheritance and polymorphism  
+- Learned core concepts of Stack and Queue data structures  
+- Studied HashMap and basics of Hashing Functions  
+- Implemented Stack, Queue, and HashMap operations    
+- **Code Link:** [Advanced Scenario OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
