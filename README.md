@@ -7,4 +7,4 @@
 - Submitted assignment on LinkedList implementation  
 - **Material Covered:** Data Structure Introduction and LinkedList, DSA Prep Plan & Roadmap  
 - **Assignment:** Submission of Data Structure – LinkedList
-**Code Link:** [DSA-Questions-LinkedList](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
+- **Code Link:** [DSA-Questions-LinkedList](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
