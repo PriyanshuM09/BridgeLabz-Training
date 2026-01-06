@@ -78,5 +78,16 @@
 - **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
 
 
+- ## Day 08 – Advanced Scenario Based OOP Applications  
+**Date:** 03-Jan-2026  
+
+- Designed backend logic for CabbyGo ride-hailing app using OOP principles  
+- Implemented inheritance and polymorphism for different vehicle and account types  
+- Applied encapsulation to secure sensitive data like fare, balance, and ratings  
+- Used interfaces to abstract core services such as ride booking and banking transactions  
+- **Code Link:** [Advanced Scenario OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
+
+
+
 
 
