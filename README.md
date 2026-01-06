@@ -206,3 +206,13 @@ BridgeLabz-Training/
 - Studied HashMap and basics of Hashing Functions  
 - Implemented Stack, Queue, and HashMap operations    
 - **Code Link:** [Advanced Scenario OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
+
+- ## Day 18 –  Scenario Based OOP Problems
+**Date:** 05-Jan-2026  
+
+- Designed CampusConnect system using inheritance, interfaces, and polymorphism  
+- Implemented secure academic and cart management using encapsulation and access modifiers  
+- Applied polymorphism to handle different behaviors for users and product types  
+- Used operators and constructors for GPA, billing, and object initialization  
+- **Code Link:** [Campus & SwiftCart OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
+- **Code Link:** [DSA-Questions-StackQueueHashMap]()
