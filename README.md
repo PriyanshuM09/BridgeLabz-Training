@@ -159,7 +159,18 @@ BridgeLabz-Training/
 - **Code Link:** [Object Modeling](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
 - **Code Link:** [scenario-based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/scenario-based-codespace)
 
+- ## Day 14 – Inheritance  & Scenario Based Questions
+**Date:** 31-Dec-2025  
 
+- Learned the concept of Inheritance in Java  
+- Studied Single Level Inheritance  
+- Understood Multilevel Inheritance  
+- Learned Hierarchical Inheritance    
+- Understood Method Overriding   
+- Understood Polymorphism with Inheritance  
+- Studied Access Modifiers and their role in Inheritance  
+- **Code Link:** [Inheritance](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+- **Code Link:** [scenario-based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/scenario-based-codespace)
 
 
 
