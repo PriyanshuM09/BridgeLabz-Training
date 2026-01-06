@@ -216,3 +216,11 @@ BridgeLabz-Training/
 - Used operators and constructors for GPA, billing, and object initialization  
 - **Code Link:** [Campus & SwiftCart OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
 - **Code Link:** [DSA-Questions-StackQueueHashMap]()
+
+- ## Day 19 – Scenario Based OOP Applications  
+**Date:** 05-Jan-2026  
+
+- Designed EduMentor learning platform using inheritance, interfaces, and polymorphism  
+- Applied polymorphism to vary certificate generation and calorie calculation logic  
+- Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking  
+- **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
