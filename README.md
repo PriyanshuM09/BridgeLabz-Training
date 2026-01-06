@@ -122,5 +122,21 @@ BridgeLabz-Training/
 - Practiced scenario based questions
 - created mini projects using switch case and if-else
 - used different types of loops
+-  **Code Link:** [scenario-based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/scenario-based-codespace)
+
+ -  ## Day 12 - Scenario based questions
+**Date:** 30-Dec-2025
+
+- Practiced scenario based questions
+- created mini projects using switch case and if-else
+- used different types of loops
+-  **Code Link:** [scenario-based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/scenario-based-codespace)
+
+ -  ## Day 13 - Scenario based questions
+**Date:** 31-Dec-2025
+
+- Practiced scenario based questions
+- Solved and Submitted all the scenario based questions
+- used different types of loops
 -  **Code Link:** [scenario-based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/scenario-based-codespace) 
 
