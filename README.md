@@ -57,7 +57,17 @@
 - Studied Access Modifiers and their role in Inheritance  
 - **Code Link:** [Inheritance](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
-  
+- ## Day 06 – Encapsulation, Interface, Abstract Classes, and Polymorphism  
+**Date:** 01-Jan-2026  
+
+- Learned the concept of Encapsulation in Java  
+- Understood Polymorphism and its importance in OOP  
+- Studied Interfaces and their usage  
+- Learned Abstract Classes and their role in abstraction  
+- Understood differences between Interface and Abstract Class  
+- Applied OOP concepts through practical examples  
+- **Code Link:** [Encapsulation & Polymorphism](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
 
 
 
