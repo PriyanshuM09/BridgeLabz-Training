@@ -218,7 +218,7 @@ BridgeLabz-Training/
 - **Code Link:** [DSA-Questions-StackQueueHashMap]()
 
 - ## Day 19 – Scenario Based OOP Applications  
-**Date:** 05-Jan-2026  
+**Date:** 06-Jan-2026  
 
 - Designed EduMentor learning platform using inheritance, interfaces, and polymorphism  
 - Applied polymorphism to vary certificate generation and calorie calculation logic  
