@@ -184,3 +184,14 @@ BridgeLabz-Training/
 - Applied OOP concepts through practical examples  
 - **Code Link:** [Encapsulation & Polymorphism](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
 
+- ## Day 16 – Scenario Based OOP Problems  &  Data Structures: Introduction & LinkedList 
+**Date:** 02-Jan-2026  
+
+- Solved real-world scenario-based problems using OOP concepts in Java  
+- Applied Encapsulation, Inheritance, Abstraction, and Polymorphism in practical use cases  
+- Implemented interfaces and method overriding to achieve flexible and scalable designs
+- Introduced to Data Structures and their importance in problem solving  
+- Learned LinkedList fundamentals and basic operations  
+- Reviewed DSA preparation plan and learning roadmap
+- **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
+- **Code Link:** [DSA-Questions-LinkedList](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
