@@ -215,7 +215,8 @@ BridgeLabz-Training/
 - Applied polymorphism to handle different behaviors for users and product types  
 - Used operators and constructors for GPA, billing, and object initialization  
 - **Code Link:** [Campus & SwiftCart OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
-- **Code Link:** [DSA-Questions-StackQueueHashMap]()
+- **Code Link:** [DSA-Questions-StackQueue](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stackandqueue)
+- **Code Link:** [DSA-Questions-HashMap](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/hashmap)
 
 - ## Day 19 – Scenario Based OOP Applications  
 **Date:** 06-Jan-2026  
