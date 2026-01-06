@@ -18,4 +18,5 @@
 - Completed and submitted assignment on Stack, Queue, HashMap, and Hashing  
 - **Material Covered:** Stack, Queue, HashMap and Hashing Function  
 - **Assignment:** Submission of Stack, Queue, HashMap and Hashing Function
-- **Code Link:** [DSA-Questions-StackQueueHashMap]()
+- **Code Link:** [DSA-Questions-StackQueue](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stackandqueue)
+- **Code Link:** [DSA-Questions-HashMap](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/hashmap)
