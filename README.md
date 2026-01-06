@@ -107,26 +107,60 @@ BridgeLabz-Training/
 - Learned math.random, math.pow(),etc
 - **Code Link:** [extras](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
--  ## Day 9 - Scenario based questions
+-  ## Day 9 - Scenario based questions & OOPs Concept
 **Date:** 26-Dec-2025
 
 - Practiced scenario questions
 - created programs using switch case and if-else
+- Eclipse install and setup 
+- Created java oops practice branch
 -  **Code Link:** [scenario-based]( https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/scenario-based-codespace)
+-  **Code Link:** [class and object](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
--  ## Day 10 - leetcode problems
+##  Day 10 – Constructor
+**Date:** 27-Dec-2025
+
+- Learn Instance vs. Class Variables, copy constructor
+-  Access Modifiers Concepts
+- practice problem on constructor
+- submit all the assignment of constructor
+- **Code Link:** [constructor](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
+
+  
+- ## Day 11 - leetcode problems
 **Date:** 28-Dec-2025
 
 - Practiced arrays questions
 - Implemented decision-making problems
 - **Code Link:** [leetcode-codebase](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array-practice-problem)
 
--
--  ## Day 11 - Scenario based questions
+
+-  ## Day 12 - Scenario based questions & Inbuilt functions
 **Date:** 29-Dec-2025
 
 - Practiced scenario based questions
 - created mini projects using switch case and if-else
 - used different types of loops
--  **Code Link:** [scenario-based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/scenario-based-codespace) 
+- learned this, static, final keywords
+- Practice instanceof operator
+-  **Code Link:** [scenario-based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/scenario-based-codespace)
+-  **Code Link:** [Inbuilt functions](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/levelone)
+
+
+## Day 13 – Object Modeling & Diagrams  
+**Date:** 30-Dec-2025
+
+- Learned the difference between Classes and Objects in Java  
+- Understood Object Modeling concepts  
+- Studied Class Diagram and its components  
+- Learned Object Diagram representation  
+- Understood basics of Sequence Diagram
+- Solved some scenario based
+- **Code Link:** [Object Modeling](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+- **Code Link:** [scenario-based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/scenario-based-codespace)
+
+
+
+
+
 
