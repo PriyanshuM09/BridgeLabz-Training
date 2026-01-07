@@ -1,5 +1,5 @@
 # BridgeLabz-Training
-# Week 1: Git, GitHub & Java Programming Fundamentals
+# Week 1: Programming Elements
 
 ## Day 1 – Git & GitHub Setup  
 **Date:** 16-Dec-2025
@@ -106,6 +106,8 @@ BridgeLabz-Training/
 - Practiced extra built-in methods
 - Learned math.random, math.pow(),etc
 - **Code Link:** [extras](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+- # Week 2: Object Oriented Programming
 
 -  ## Day 9 - Scenario based questions & OOPs Concept
 **Date:** 26-Dec-2025
