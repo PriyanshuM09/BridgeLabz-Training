@@ -99,14 +99,21 @@
 
 
 - ## Day 10 – Scenario Based OOP Applications  
-**Date:** 05-Jan-2026  
+**Date:** 06-Jan-2026  
 
 - Designed EduMentor learning platform using inheritance, interfaces, and polymorphism  
 - Implemented FitTrack fitness tracker with secure data handling using encapsulation  
 - Applied polymorphism to vary certificate generation and calorie calculation logic  
 - Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking  
 - **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
+  
 
+- ## Day 11 – Scenario Based OOP Applications  
+**Date:** 07-Jan-2026  
+
+- Designed loanbuddy,bookbazaar platform using inheritance, interfaces, and polymorphism    
+- Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking  
+- **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
 
 
 
