@@ -186,6 +186,7 @@ BridgeLabz-Training/
 - Applied OOP concepts through practical examples  
 - **Code Link:** [Encapsulation & Polymorphism](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
 
+# Week 3: Data Structures
 - ## Day 16 – Scenario Based OOP Problems  &  Data Structures: Introduction & LinkedList 
 **Date:** 02-Jan-2026  
 
