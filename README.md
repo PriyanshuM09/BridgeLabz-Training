@@ -206,22 +206,31 @@ BridgeLabz-Training/
 - Studied HashMap and basics of Hashing Functions  
 - Implemented Stack, Queue, and HashMap operations    
 - **Code Link:** [Advanced Scenario OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
-
-- ## Day 18 –  Scenario Based OOP Problems
-**Date:** 05-Jan-2026  
-
-- Designed CampusConnect system using inheritance, interfaces, and polymorphism  
-- Implemented secure academic and cart management using encapsulation and access modifiers  
-- Applied polymorphism to handle different behaviors for users and product types  
-- Used operators and constructors for GPA, billing, and object initialization  
-- **Code Link:** [Campus & SwiftCart OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
 - **Code Link:** [DSA-Questions-StackQueue](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stackandqueue)
 - **Code Link:** [DSA-Questions-HashMap](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/hashmap)
 
-- ## Day 19 – Scenario Based OOP Applications  
-**Date:** 06-Jan-2026  
+- ## Day 18 –  Scenario Based OOP Problems & Sorting Algorithms
+**Date:** 05-Jan-2026  
 
+- Designed CampusConnect system using inheritance, interfaces, and polymorphism  
+-  Sorting Algorithms like Bubble Sort, Insertion Sort, Merge Sort, Quick Sort
+- Used operators and constructors for GPA, billing, and object initialization  
+- **Code Link:** [Campus & SwiftCart OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
+- **Code Link:** [Sorting Algorithms]()
+
+- ## Day 19 – Scenario Based OOPs & Searching Algorithms
+**Date:** 06-Jan-2026  
+- Linear and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader 
 - Designed EduMentor learning platform using inheritance, interfaces, and polymorphism  
 - Applied polymorphism to vary certificate generation and calorie calculation logic  
 - Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking  
 - **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
+- **Code Link:** [Searching Algorithms]()
+  
+- - ## Day 20 – Scenario Based OOP Applications  
+**Date:** 07-Jan-2026  
+
+- Designed loanbuddy,bookbazaar platform using inheritance, interfaces, and polymorphism    
+- Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking  
+- **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
+
