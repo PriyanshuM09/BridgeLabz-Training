@@ -219,7 +219,7 @@ BridgeLabz-Training/
 -  Sorting Algorithms like Bubble Sort, Insertion Sort, Merge Sort, Quick Sort
 - Used operators and constructors for GPA, billing, and object initialization  
 - **Code Link:** [Campus & SwiftCart OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
-- **Code Link:** [Sorting Algorithms]()
+- **Code Link:** [Sorting Algorithms](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sortingalgorithms)
 
 - ## Day 19 – Scenario Based OOPs & Searching Algorithms
 **Date:** 06-Jan-2026  
