@@ -20,3 +20,14 @@
 - **Assignment:** Submission of Stack, Queue, HashMap and Hashing Function
 - **Code Link:** [DSA-Questions-StackQueue](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stackandqueue)
 - **Code Link:** [DSA-Questions-HashMap](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/hashmap)
+
+- ## Day 03 – Data Structures: Sorting Algorithms  
+**Date:** 05-Jan-2026  
+
+- Learned core concepts of Sorting Algorithms  
+- Studied Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort  
+- Understood basic working and comparison of sorting techniques  
+- Implemented sorting algorithms using arrays  
+- Completed and submitted assignment on Sorting Algorithms  
+- **Material Covered:** Bubble Sort, Insertion Sort, Merge Sort, Quick Sort
+- - **Code Link:** [Sorting-Algorithm](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sortingalgorithms)
