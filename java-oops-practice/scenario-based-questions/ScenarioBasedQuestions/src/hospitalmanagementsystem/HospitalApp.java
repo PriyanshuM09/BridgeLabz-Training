@@ -1,4 +1,4 @@
-package com.hospitalmanagementsystem;
+package hospitalmanagementsystem;
 
 import java.util.*;
 	public class HospitalApp {

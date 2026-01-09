@@ -1,4 +1,4 @@
-package com.hospitalmanagementsystem;
+package hospitalmanagementsystem;
 
 
 class Bill implements Payable {

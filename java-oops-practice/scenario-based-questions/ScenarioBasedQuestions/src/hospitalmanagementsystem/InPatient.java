@@ -1,4 +1,4 @@
-package com.hospitalmanagementsystem;
+package hospitalmanagementsystem;
 class InPatient extends Patient {
     private int daysAdmitted;
     private double dailyCharge;

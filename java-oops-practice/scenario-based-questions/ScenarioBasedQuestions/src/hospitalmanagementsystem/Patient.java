@@ -1,4 +1,4 @@
-package com.hospitalmanagementsystem;
+package hospitalmanagementsystem;
 
 abstract class Patient {
     private int patientId;
