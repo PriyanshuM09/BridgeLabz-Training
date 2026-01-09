@@ -230,10 +230,16 @@ BridgeLabz-Training/
 - **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
 - **Code Link:** [Searching Algorithms]()
   
-- - ## Day 20 – Scenario Based OOP Applications  
+- ## Day 20 – Scenario Based Questions OOPs
 **Date:** 07-Jan-2026  
 
 - Designed loanbuddy,bookbazaar platform using inheritance, interfaces, and polymorphism    
 - Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking  
 - **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
 
+- - ## Day 21 – Scenario Based Questions OOPs
+**Date:** 08-Jan-2026  
+
+- Solved questions by using inheritance, interfaces, and polymorphism    
+- Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking  
+- **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
