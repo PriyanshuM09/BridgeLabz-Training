@@ -41,5 +41,5 @@ Binary Search
 - Learned core concepts of Searching Algorithms  
 - Studied StringBuilder, FileReader, InputStreamReader, Linear Search and Binary Search   
 - Completed and submitted assignment on Searching Algorithms  
-- **Code Link:** [Linear and Binary Search](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src)
+- **Code Link:** [Linear and Binary Search](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
 
