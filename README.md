@@ -24,8 +24,22 @@
 - ## Day 03 – Data Structures: Sorting Algorithms  
 **Date:** 05-Jan-2026  
 
+StringBuffer
+FileReader, 
+InputStreamReader
+Linear Search 
+Binary Search
 - Learned core concepts of Sorting Algorithms  
 - Studied Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort     
 - Completed and submitted assignment on Sorting Algorithms  
 - **Material Covered:** Bubble Sort, Insertion Sort, Merge Sort, Quick Sort
 - **Code Link:** [Sorting-Algorithm](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sortingalgorithms)
+
+- ## Day 04 – Data Structures: Linear and Binary Search 
+**Date:** 06-Jan-2026  
+
+- Learned core concepts of Searching Algorithms  
+- Studied StringBuilder, FileReader, InputStreamReader, Linear Search and Binary Search   
+- Completed and submitted assignment on Searching Algorithms  
+- **Code Link:** [Linear and Binary Search](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src)
+
