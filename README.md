@@ -245,7 +245,7 @@ BridgeLabz-Training/
 - **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
 
 - ## Day 22 – Scenario Based Questions OOPs
-**Date:** 08-Jan-2026  
+**Date:** 09-Jan-2026  
 
 - Solved questions by using inheritance, interfaces, and polymorphism    
 - Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking  
