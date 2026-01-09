@@ -228,7 +228,7 @@ BridgeLabz-Training/
 - Applied polymorphism to vary certificate generation and calorie calculation logic  
 - Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking  
 - **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
-- **Code Link:** [Searching Algorithms]()
+- **Code Link:** [Searching Algorithms](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
   
 - ## Day 20 – Scenario Based Questions OOPs
 **Date:** 07-Jan-2026  
