@@ -250,3 +250,10 @@ BridgeLabz-Training/
 - Solved questions by using inheritance, interfaces, and polymorphism    
 - Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking  
 - **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
+
+- ## Day 23 – Scenario Based Questions on Data Structures
+**Date:** 10-Jan-2026  
+
+- Solved questions by using Linked list, Stack, and HashMap
+- Submitted all assignment questions    
+- **Code Link:** [Scenario Based Questions on Data Structures](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
