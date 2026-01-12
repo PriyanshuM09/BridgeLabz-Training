@@ -24,11 +24,6 @@
 - ## Day 03 – Data Structures: Sorting Algorithms  
 **Date:** 05-Jan-2026  
 
-StringBuffer
-FileReader, 
-InputStreamReader
-Linear Search 
-Binary Search
 - Learned core concepts of Sorting Algorithms  
 - Studied Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort     
 - Completed and submitted assignment on Sorting Algorithms  
@@ -43,3 +38,29 @@ Binary Search
 - Completed and submitted assignment on Searching Algorithms  
 - **Code Link:** [Linear and Binary Search](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
 
+
+## Day 05 – Runtime Analysis & Big-O  
+**Date:** 07-Jan-2026  
+
+- Learned Runtime Analysis  
+- Studied Big-O Notation  
+- Understood Time & Space Complexity  
+- Learned Best, Worst & Average Cases  
+- Explored Java Optimization Tips  
+- **Code Link:** [Runtime Analysis & Big-O]()
+
+
+-  ## Day 06 – Scenario Based Questions on Data Structures
+**Date:** 10-Jan-2026  
+
+- Solved questions by using Linked list, Stack, and HashMap
+- Submitted all assignment questions    
+- **Code Link:** [Scenario Based Questions on Data Structures](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
+
+
+ - ## Day 07 – Scenario Based Questions on Data Structures
+**Date:** 12-Jan-2026  
+
+- Solved questions by using Queue, Stack, and HashMap
+- Submitted all assignment questions    
+- **Code Link:** [Scenario Based Questions on Data Structures](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
