@@ -36,7 +36,7 @@ public class Device implements IControllable {
         System.out.println(deviceId + " reset to default");
     }
 
-    // ✅ Energy calculation method
+
     public double calculateEnergy(int hours) {
         return energyUsage * hours;
     }
