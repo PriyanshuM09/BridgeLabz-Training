@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class TwoSum {
     public static int[] twoSum(int[] nums, int target) {
         int n = nums.length;
