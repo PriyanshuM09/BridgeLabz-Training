@@ -116,5 +116,25 @@
 - **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
 
 
+- ## Day 12 – Scenario Based Questions on OOPs  
+**Date:** 08-Jan-2026  
+
+- Designed MediStore,Tourmate program using inheritance, interfaces, polymorphism and abstraction   
+- Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking  
+- **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
 
 
+- ## Day 13 – Scenario Based Questions on OOPs   
+**Date:** 09-Jan-2026  
+
+- Designed Artify,Foodloop program using inheritance, interfaces, polymorphism and abstraction   
+- Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking  
+- **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
+
+
+- ## Day 14 – Scenario Based Questions on OOPs   
+**Date:** 12-Jan-2026  
+
+- Solved some questions like HomeNest, BudgetWise program using inheritance, interfaces, polymorphism and abstraction   
+- Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking  
+- **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
