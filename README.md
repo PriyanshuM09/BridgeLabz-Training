@@ -64,3 +64,11 @@
 - Solved questions by using Queue, Stack, and HashMap
 - Submitted all assignment questions    
 - **Code Link:** [Scenario Based Questions on Data Structures](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
+
+
+ - ## Day 08 – Scenario Based Questions on Data Structures
+**Date:** 13-Jan-2026  
+
+- Solved questions by using Queue, Stack, and HashMap
+- Submitted all assignment questions    
+- **Code Link:** [Scenario Based Questions on Data Structures](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
