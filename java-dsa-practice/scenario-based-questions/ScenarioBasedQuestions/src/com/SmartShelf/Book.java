@@ -1,0 +1,12 @@
+package com.SmartShelf;
+
+public class Book {
+String title;
+public Book(String title) {
+	this.title=title;
+	
+}
+public void display() {
+	System.out.println(title);
+}
+}
