@@ -264,9 +264,22 @@ BridgeLabz-Training/
 - Submitted all assignment questions    
 - **Code Link:** [Scenario Based Questions on Data Structures](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
 
- - ## Day 24 – Scenario Based Questions on Data Structures
+
+ - ## Day 24 – Scenario Based Questions on Data Structures and oops
 **Date:** 12-Jan-2026  
 
 - Solved questions by using Queue, Stack, and HashMap
+- Solved questions by using inheritance, interfaces, and polymorphism
 - Submitted all assignment questions    
+- **Code Link:** [Scenario Based Questions on Data Structures](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
+- **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
+
+
+- ## Day 25 – Scenario Based Questions OOPs & Dsa
+**Date:** 13-Jan-2026  
+
+- Solved questions by using inheritance, interfaces, and polymorphism    
+- Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking
+- Solved questions by using Queue, Stack, and HashMap
+- **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
 - **Code Link:** [Scenario Based Questions on Data Structures](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
