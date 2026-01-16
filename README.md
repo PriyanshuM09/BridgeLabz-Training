@@ -240,7 +240,7 @@ BridgeLabz-Training/
 - Learned Best, Worst & Average Cases   
 - Used constructors, operators, and access modifiers for object creation, scoring, and progress tracking  
 - **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
-- **Code Link:** [Runtime Analysis & Big-O]()
+- **Code Link:** [Runtime Analysis & Big-O](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searchcomparison)
 
   
 -  ## Day 21 – Scenario Based Questions OOPs
