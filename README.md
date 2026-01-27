@@ -319,3 +319,48 @@ BridgeLabz-Training/
 
 ---
 
+# Week 4 – Day 30: Java Collections
+**Date :** 19-January-2026  
+
+###  Topics Covered
+- Introduction to Java Generics
+- Introduction to Generics
+- Type Parameters
+- Generic Classes
+- Generic Methods
+- Bounded Type Parameters
+- Wildcards
+- Solve practice on these topic
+- Smart Warehouse Management System
+- Dynamic Online Marketplace
+- Multi-Level University Course Management System
+- Personalized Meal Plan Generator
+- AI-Driven Resume Screening System
+
+**Code Link :**[Generics](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+
+## _Dsa Scenario-Based_ 
+- EduResults – Rank Sheet Generator (Merge Sort)
+- FlashDealz – Product Sorting by Discount (Quick Sort)
+- FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+- **Code Link :**[scenario - Based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
+- 
+
+## Day 31 Scenario - Based Program in Sorting 
+**Date :** 20-Jan-2026
+- MovieTime – Theater Show Listings (Insertion Sort)
+- FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+- GamerZone – High Score Ranking System (Quick Sort)
+- **Code Link :**[scenario - Based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
+---
+## 02  Collections
+
+- Overview of Collections Framework
+- What is the Collections Framework?
+- Hierarchy of Collections Framework
+- List Interface and Implementing Classes
+- Set Interface and Implementing Classes
+- Queue and Deque Interfaces
+- Map Interface and Its Implementations
+- Comparison of Different Implementations
+- Real-World Use Cases and Best Practices.
