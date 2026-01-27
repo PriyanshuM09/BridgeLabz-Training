@@ -283,3 +283,20 @@ BridgeLabz-Training/
 - Solved questions by using Queue, Stack, and HashMap
 - **Code Link:** [Scenario Based OOP](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/ScenarioBasedQuestions/src)
 - **Code Link:** [Scenario Based Questions on Data Structures](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
+
+## Day 26 - Scenario -Based programs in Dsa
+**Date :** 14-Jan-2026
+- SmartCheckout – Supermarket Billing Queue
+- ParcelTracker – Delivery Chain Management
+- ExamProctor – Online Exam Review System
+- Using linkedlist, Queue stack and hashmap
+- **Code Link:** [Scenario Based Questions on Data Structures](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
+
+## Day 27 Scenario - Based Program in Sorting
+**Date :** 15-Jan-2026
+ - HospitalQueue – Patient Sorting by Criticality (using Bubble Sort).
+ - SmartShelf – Real-Time Book Arrangement (Insertion Sort).
+ - ZipZipMart – Daily Sales Summary Report (Merge Sort).
+ - **Code Link :**[scenario - Based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
+
+
