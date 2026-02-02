@@ -364,3 +364,8 @@ BridgeLabz-Training/
 - Map Interface and Its Implementations
 - Comparison of Different Implementations
 - Real-World Use Cases and Best Practices.
+
+- ## Day 32  Scenario - Based Program
+- **Date** :** 21-jan-2026
+- TailorShop ,MedWarehouse
+- Binary Search Tree (BST),Story: E-Commerce Product Inventory
