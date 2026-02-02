@@ -346,18 +346,21 @@ BridgeLabz-Training/
 - **Code Link :**[scenario - Based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
 - 
 
-## Day 31 Scenario - Based Program in Sorting 
+## Day 31 Scenario - Based Program in Sorting & Generics
 **Date :** 20-Jan-2026
 - MovieTime – Theater Show Listings (Insertion Sort)
 - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
 - GamerZone – High Score Ranking System (Quick Sort)
+- Introduction to generics.
+- Introduction to Generics
+- Type Parameters,Generic Classes, Generic Methods, Bounded Type Parameters, Wildcards
 - **Code Link :**[scenario - Based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
+- **Code Link :**[Generics](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
 ---
+
 ## 02  Collections
 
 - Overview of Collections Framework
-- What is the Collections Framework?
-- Hierarchy of Collections Framework
 - List Interface and Implementing Classes
 - Set Interface and Implementing Classes
 - Queue and Deque Interfaces
@@ -365,14 +368,11 @@ BridgeLabz-Training/
 - Comparison of Different Implementations
 - Real-World Use Cases and Best Practices.
 
-- ## Day 32  Scenario - Based Program
+- ## Day 32  Generics
 - **Date** :** 21-jan-2026
-- TailorShop ,MedWarehouse
-- Binary Search Tree (BST),Story: E-Commerce Product Inventory
+- Introduction to generics.
+- Introduction to Generics
+- Type Parameters,Generic Classes, Generic Methods, Bounded Type Parameters, Wildcards
+- **Code Link :**[Generics](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
 
-- ## Day 33  Scenario - Based Program
-- **Date** :** 22-jan-2026
-- TailorShop ,MedWarehouse
-- Binary Search Tree (BST),Story: E-Commerce Product Inventory
-
-- # Week 5 – Day 34: Java8 programming 
+ 
