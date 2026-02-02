@@ -369,3 +369,10 @@ BridgeLabz-Training/
 - **Date** :** 21-jan-2026
 - TailorShop ,MedWarehouse
 - Binary Search Tree (BST),Story: E-Commerce Product Inventory
+
+- ## Day 33  Scenario - Based Program
+- **Date** :** 22-jan-2026
+- TailorShop ,MedWarehouse
+- Binary Search Tree (BST),Story: E-Commerce Product Inventory
+
+- # Week 5 – Day 30: Java8 programming 
