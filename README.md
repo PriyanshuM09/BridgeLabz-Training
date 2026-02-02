@@ -346,16 +346,13 @@ BridgeLabz-Training/
 - **Code Link :**[scenario - Based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
 - 
 
-## Day 31 Scenario - Based Program in Sorting & Generics
+## Day 31 Scenario - Based Program in Sorting 
 **Date :** 20-Jan-2026
 - MovieTime – Theater Show Listings (Insertion Sort)
 - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
 - GamerZone – High Score Ranking System (Quick Sort)
-- Introduction to generics.
-- Introduction to Generics
-- Type Parameters,Generic Classes, Generic Methods, Bounded Type Parameters, Wildcards
 - **Code Link :**[scenario - Based](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-questions/ScenarioBasedQuestions/src/com)
-- **Code Link :**[Generics](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+
 ---
 
 ## 02  Collections
@@ -367,6 +364,7 @@ BridgeLabz-Training/
 - Map Interface and Its Implementations
 - Comparison of Different Implementations
 - Real-World Use Cases and Best Practices.
+- **Code Link :**[Collections](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections)
 
 - ## Day 32  Generics
 - **Date** :** 21-jan-2026
@@ -374,5 +372,77 @@ BridgeLabz-Training/
 - Introduction to Generics
 - Type Parameters,Generic Classes, Generic Methods, Bounded Type Parameters, Wildcards
 - **Code Link :**[Generics](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+
+- ## Day 33  Regex & JUnit
+- **Date** :** 22-jan-2026
+- Introduction to Regex. 
+- MetaCharacter, Quantifier, Common Patterns
+- Java Regex API, Pattern, Matcher
+- Intoduction to JUnit
+- JUnit Annotations
+- Writing Test Cases
+- Structure of a Test Class
+- **Code Link :**[Regex & JUnit](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com)
+
+- ## Day 34  Annotations & Reflection
+- **Date** :** 23-jan-2026
+- Introduction to Annotations
+- Common Built-in Annotations
+- Creating Custom Annotations
+- Advanced Custom Annotations
+- Understanding of Reflection
+- Using Reflection in Java
+- Annotations and Reflection
+- **Code Link :**[Annotations & Reflection](https://github.com/PriyanshuM09/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com)
+
+### Week 5 – IO programming
+
+- ## Day 35 - CSV Data Handling 
+- **Date :** 23-Jan-2026
+  
+- Introduction to CSV
+- Reading CSV Files
+- Writing CSV Files
+- Parsing CSV Data
+- Data Validation
+
+
+ ## Day 36 -JSON DATA 
+- **Date :** 24-Jan-2026
+  
+- Introduction to JSON
+- Reading JSON Data
+- Writing JSON Data
+- Parsing JSON Data
+- JSON Schema Validation
+
+
+### Week 6 – Java 8
+-  ## Day 37 - Java 8 lambda Expression 
+- **Date :** 27-Jan-2026
+
+- Lambda Expressions
+- Method References
+
+## Day 38 -Functional Interface
+- **Date :** 28-Jan-2026
+- 1. Defining and Implementing Interfaces (Best Practices)
+- 2. Functional Interfaces
+- 3. Default and Static Methods in Interfaces
+- 4. Marker Interfaces
+
+
+ ## Day 39 - Stream api
+- Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
+- Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
+- Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
+- Ordered vs unordered streams
+- Parallel streams
+- forEach() — Iterable vs Stream
+  
+
+
+
+
 
  
